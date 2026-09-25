@@ -1,2 +1,2 @@
-# brickhill.github.io
+# brickhill
 basic site
